@@ -14,7 +14,7 @@
 
 <p align="center">
 
-diff
+
 + Founder of Eldian Network
 + Architecting Telegram-scale systems
 + Focused on automation, APIs & music infrastructure
