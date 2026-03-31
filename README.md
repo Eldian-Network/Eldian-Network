@@ -1,11 +1,11 @@
 <!-- LOGO -->
 <p align="center">
-  <img src="YOUR_LOGO_LINK" width="130" />
+  <img src="[YOUR_LOGO_LINK](https://files.catbox.moe/41s3gp.jpg)" width="130" />
 </p>
 
 <!-- TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=00E5FF&center=true&vCenter=true&width=700&lines=Abhishek+Pandey;Founder+%40+Eldian+Network;Building+Bot+Infrastructure;Automation+%7C+APIs+%7C+Music+Systems;Scaling+Digital+Ecosystems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=00E5FF&center=true&vCenter=true&width=700&lines=Sung+Jinwoo;Founder+%40+Eldian+Network;Building+Bot+Infrastructure;Automation+%7C+APIs+%7C+Music+Systems;Scaling+Digital+Ecosystems" />
 </p>
 
 ---
@@ -37,7 +37,7 @@ diff
 🧬 Network Activity
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ELDIAN-NETWORK&theme=tokyo-night&hide_border=true" /> </p>
 🌐 Access Points
-<p align="center"> <a href="https://t.me/YOUR_USERNAME"> <img src="https://img.shields.io/badge/Telegram-00E5FF?style=for-the-badge&logo=telegram&logoColor=white"/> </a> <a href="https://eldian.vercel.app"> <img src="https://img.shields.io/badge/Eldian%20Network-7B2EFF?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="https://eldian-api.vercel.app"> <img src="https://img.shields.io/badge/API%20Gateway-000000?style=for-the-badge&logo=fastapi&logoColor=white"/> </a> </p>
+<p align="center"> <a href="https://t.me/Infactuative"> <img src="https://img.shields.io/badge/Telegram-00E5FF?style=for-the-badge&logo=telegram&logoColor=white"/> </a> <a href="https://eldian.vercel.app"> <img src="https://img.shields.io/badge/Eldian%20Network-7B2EFF?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="https://eldian-api.vercel.app"> <img src="https://img.shields.io/badge/API%20Gateway-000000?style=for-the-badge&logo=fastapi&logoColor=white"/> </a> </p>
 ⚡ Philosophy
 <p align="center">
 
