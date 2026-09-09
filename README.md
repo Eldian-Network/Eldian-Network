@@ -37,7 +37,7 @@
 🧬 Network Activity
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ELDIAN-NETWORK&theme=tokyo-night&hide_border=true" /> </p>
 🌐 Access Points
-<p align="center"> <a href="https://t.me/Infactuative"> <img src="https://img.shields.io/badge/Telegram-00E5FF?style=for-the-badge&logo=telegram&logoColor=white"/> </a> <a href="https://eldian.vercel.app"> <img src="https://img.shields.io/badge/Eldian%20Network-7B2EFF?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="https://eldian-api.vercel.app"> <img src="https://img.shields.io/badge/API%20Gateway-000000?style=for-the-badge&logo=fastapi&logoColor=white"/> </a> </p>
+<p align="center"> <a href="https://t.me/EgoManiacMe"> <img src="https://img.shields.io/badge/Telegram-00E5FF?style=for-the-badge&logo=telegram&logoColor=white"/> </a> <a href="https://eldian.vercel.app"> <img src="https://img.shields.io/badge/Eldian%20Network-7B2EFF?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="https://eldian-api.vercel.app"> <img src="https://img.shields.io/badge/API%20Gateway-000000?style=for-the-badge&logo=fastapi&logoColor=white"/> </a> </p>
 ⚡ Philosophy
 <p align="center">
 
